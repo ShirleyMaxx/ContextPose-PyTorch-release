@@ -1,0 +1,8 @@
+data
+logs
+*.pyc
+*.jpg
+*.pdf
+*.json
+__pycache__
+.vscode
